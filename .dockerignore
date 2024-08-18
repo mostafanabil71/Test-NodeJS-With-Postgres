@@ -1,0 +1,11 @@
+.github
+.history
+imgs
+k8s
+node_modules
+terraform
+.gitignore
+*.yml
+*.sh
+k6.js
+*.md
